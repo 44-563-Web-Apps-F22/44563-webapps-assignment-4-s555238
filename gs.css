@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(236, 192, 255);
+}
+p:hover {
+    background-color:rgb(223, 212, 210);
+}
+    h1
+    {
+        color:rgb(167, 174, 27);}
+h3{
+    color:rgb(75, 161, 183);}
+
+h3{
+    font-size:20px;}
+
+p{
+    color:rgb(124, 39, 86);}
+span{
+    color:rgb(128, 94, 0);}
+span:hover{
+    background-color:rgb(127, 255, 144);}
+h3{
+    font-style: italic;}
+
+h4{
+    font-style: inherit;}
+
+.precious things{
+    font-size: 4px;
+    color: brown;
+}
+table{
+     border-style: double;
+}
+th, td {
+    border: 1px solid black;
+}
+th {
+    color:rgb(0, 128, 126);
+}
+ td{
+    color:rgb(237, 234, 237);
+ }
+tr:nth-child(even) {
+    background-color:rgb(94, 214, 83);
+}
+td {
+    text-align: center; }
+ th,td {
+ width: 100px;
+ padding:0px 2px 2px 2px;
+ margin: -28px 0px -10px 100px;
+ background: rgb(230, 178, 173);
+ border-top: 4px solid rgb(89, 79, 75);
+ border-right: 6px dashed rgb(98, 154, 117);
+ border-bottom: 6px double rgb(162, 179, 121);
+ border-left: 10px inset rgb(47, 0, 128);
+ }
