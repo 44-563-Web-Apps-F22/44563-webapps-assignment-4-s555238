@@ -6,7 +6,8 @@ p:hover {
 }
     h1
     {
-        color:rgb(167, 174, 27);}
+        color:rgb(103, 116, 130);
+    }
 h3{
     color:rgb(75, 161, 183);}
 
@@ -21,6 +22,9 @@ span:hover{
     background-color:rgb(127, 255, 144);}
 h3{
     font-style: italic;}
+    h4{
+        color:chocolate;
+    }
 
 h4{
     font-style: inherit;}
@@ -62,4 +66,36 @@ h1{
 h1:hover{
     background-color:burlywood;
 
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:blueviolet;
+  }
+  h1{
+    text-shadow: 2px 3px 5px tomato;
+  }
+span{
+    color:brown;
+}
+div{
+    color:darkblue;
 }
