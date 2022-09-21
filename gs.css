@@ -56,3 +56,10 @@ td {
  border-bottom: 6px double rgb(162, 179, 121);
  border-left: 10px inset rgb(47, 0, 128);
  }
+h1{
+    text-shadow:0 0 3px rgb(154, 154, 154) ; 
+}
+h1:hover{
+    background-color:burlywood;
+
+}
