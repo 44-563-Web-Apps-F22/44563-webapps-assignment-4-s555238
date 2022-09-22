@@ -99,6 +99,7 @@ span{
 div{
     color:darkblue;
 }
-i{
-    background-color: aliceblue;
+.a{
+    padding: 20px;
+    margin: 15px 0;
 }
